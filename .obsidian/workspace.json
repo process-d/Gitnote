@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14e6d6f7471de47a",
+  "active": "d24e4b68c619618c",
   "lastOpenFiles": [
     "123.md",
     "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
