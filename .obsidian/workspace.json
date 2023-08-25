@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 290.5
   },
   "right": {
     "id": "66348edc1a04de88",
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14e6d6f7471de47a",
+  "active": "956553d4356f9d60",
   "lastOpenFiles": [
+    "png",
+    "Pasted image 20230825170536.png",
     "操作系统/Linux/Linux系统.md",
     "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
     "123.md",
@@ -157,7 +159,6 @@
     "操作系统/Linux",
     "操作系统",
     "未命名 1",
-    "未命名",
     "java",
     "2023-08-23.md",
     "未命名.canvas"

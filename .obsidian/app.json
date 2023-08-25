@@ -2,5 +2,6 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "strictLineBreaks": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "attachmentFolderPath": "png"
 }
