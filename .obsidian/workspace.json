@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+                "file": "分布式/mit6.824/基本概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+                "file": "分布式/mit6.824/基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+                "file": "分布式/mit6.824/基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md"
+                "file": "分布式/mit6.824/基本概念.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "14e6d6f7471de47a",
   "lastOpenFiles": [
+    "png/Pasted image 20230828162653.png",
+    "分布式/mit6.824/基本概念.md",
+    "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+    "分布式/mit6.824",
+    "分布式",
+    "123.md",
     "df",
     "png/Pasted image 20230825170536.png",
     "新建文件夹",
-    "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
     "png",
     "操作系统/Linux/Linux系统.md",
-    "123.md",
     "操作系统/mit6.s081/内存管理",
     "README.md",
     "操作系统/mit6.s081",
     "操作系统/Linux",
     "操作系统",
     "未命名 1",
-    "java",
     "2023-08-23.md",
     "未命名.canvas"
   ]
