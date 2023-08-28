@@ -11,9 +11,11 @@
             "id": "14e6d6f7471de47a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "png/Pasted image 20230825170536.png"
+                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "png/Pasted image 20230825170536.png",
+                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "png/Pasted image 20230825170536.png",
+                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "png/Pasted image 20230825170536.png"
+                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md"
               }
             }
           }
@@ -144,11 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "956553d4356f9d60",
+  "active": "14e6d6f7471de47a",
   "lastOpenFiles": [
+    "df",
+    "png/Pasted image 20230825170536.png",
+    "新建文件夹",
     "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
     "png",
-    "png/Pasted image 20230825170536.png",
     "操作系统/Linux/Linux系统.md",
     "123.md",
     "操作系统/mit6.s081/内存管理",
