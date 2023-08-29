@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分布式/mit6.824/基本概念.md",
+                "file": "分布式/mit6.824/Farm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分布式/mit6.824/基本概念.md",
+                "file": "分布式/mit6.824/Farm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分布式/mit6.824/基本概念.md",
+                "file": "分布式/mit6.824/Farm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分布式/mit6.824/基本概念.md"
+                "file": "分布式/mit6.824/Farm.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "c6f4517e98acf815",
   "lastOpenFiles": [
-    "分布式/mit6.824/未命名.md",
+    "png/Pasted image 20230829110433.png",
+    "png/Pasted image 20230829110414.png",
+    "png/Pasted image 20230829110353.png",
+    "png/Pasted image 20230829110329.png",
     "分布式/mit6.824/基本概念.md",
+    "分布式/mit6.824/Farm.md",
     "png/Pasted image 20230828172014.png",
     "png/Pasted image 20230828171906.png",
     "png/Pasted image 20230828171232.png",
@@ -159,8 +163,6 @@
     "png/Pasted image 20230828165113.png",
     "png/Pasted image 20230828165100.png",
     "png/Pasted image 20230828163629.png",
-    "png/Pasted image 20230828162653.png",
-    "png/Pasted image 20230825170536.png",
     "分布式/mit6.824",
     "分布式",
     "123.md",
