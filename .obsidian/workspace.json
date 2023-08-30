@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.50840759277344
+    "width": 290.5
   },
   "right": {
     "id": "66348edc1a04de88",
@@ -148,12 +148,12 @@
   },
   "active": "c6f4517e98acf815",
   "lastOpenFiles": [
+    "分布式/mit6.824/基本概念.md",
+    "分布式/mit6.824/Farm.md",
     "png/Pasted image 20230829110433.png",
     "png/Pasted image 20230829110414.png",
     "png/Pasted image 20230829110353.png",
     "png/Pasted image 20230829110329.png",
-    "分布式/mit6.824/基本概念.md",
-    "分布式/mit6.824/Farm.md",
     "png/Pasted image 20230828172014.png",
     "png/Pasted image 20230828171906.png",
     "png/Pasted image 20230828171232.png",
@@ -162,7 +162,6 @@
     "png/Pasted image 20230828170947.png",
     "png/Pasted image 20230828165113.png",
     "png/Pasted image 20230828165100.png",
-    "png/Pasted image 20230828163629.png",
     "分布式/mit6.824",
     "分布式",
     "123.md",
