@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+                "file": "操作系统/mit6.s081/文件系统/文件系统缓存.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d93a9e303913b98",
+            "id": "81115b2a8ac51181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分布式/mit6.824/基本概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6d8d528fe6a804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/基本概念.md",
+                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/基本概念.md",
+                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/基本概念.md",
+                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/基本概念.md"
+                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md"
               }
             }
           }
@@ -183,20 +171,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6e6d8d528fe6a804",
+  "active": "81115b2a8ac51181",
   "lastOpenFiles": [
-    "分布式/mit6.824/基本概念.md",
+    "png/Pasted image 20230831223513.png",
+    "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+    "操作系统/mit6.s081/文件系统/文件系统日志.md",
+    "png/Pasted image 20230831220528.png",
+    "png/Pasted image 20230831220448.png",
+    "操作系统/mit6.s081/文件系统/磁盘管理.md",
+    "操作系统/mit6.s081/内存管理/虚拟内存管理的函数.md",
     "java/基本概念.md",
+    "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
+    "分布式/mit6.824/基本概念.md",
     "java",
     "分布式/mit6.824/Spark论文.pdf",
-    "操作系统/mit6.s081/文件系统/文件系统缓存.md",
-    "操作系统/mit6.s081/文件系统/磁盘管理.md",
     "png/Pasted image 20230830172538.png",
     "png/Pasted image 20230830172203.png",
     "操作系统/mit6.s081/内存管理/未命名.md",
-    "操作系统/mit6.s081/内存管理/虚拟内存管理的函数.md",
     "操作系统/mit6.s081/文件系统",
-    "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
     "操作系统/Linux/Linux系统.md",
     "分布式/mit6.824/Farm.md",
     "png/Pasted image 20230829110433.png",
@@ -205,8 +197,6 @@
     "png/Pasted image 20230829110329.png",
     "png/Pasted image 20230828172014.png",
     "png/Pasted image 20230828171906.png",
-    "png/Pasted image 20230828171232.png",
-    "png/Pasted image 20230828170947.png",
     "分布式/mit6.824",
     "分布式",
     "123.md",
