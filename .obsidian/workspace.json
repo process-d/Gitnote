@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+                "file": "分布式/mit6.824/基本概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e6d8d528fe6a804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/基本概念.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+                "file": "java/基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+                "file": "java/基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统缓存.md"
+                "file": "java/基本概念.md"
               }
             }
           }
@@ -171,10 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d93a9e303913b98",
+  "active": "6e6d8d528fe6a804",
   "lastOpenFiles": [
-    "操作系统/mit6.s081/文件系统/磁盘管理.md",
+    "分布式/mit6.824/基本概念.md",
+    "java/基本概念.md",
+    "java",
+    "分布式/mit6.824/Spark论文.pdf",
     "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+    "操作系统/mit6.s081/文件系统/磁盘管理.md",
     "png/Pasted image 20230830172538.png",
     "png/Pasted image 20230830172203.png",
     "操作系统/mit6.s081/内存管理/未命名.md",
@@ -182,9 +198,7 @@
     "操作系统/mit6.s081/文件系统",
     "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
     "操作系统/Linux/Linux系统.md",
-    "分布式/mit6.824/Spark论文.pdf",
     "分布式/mit6.824/Farm.md",
-    "分布式/mit6.824/基本概念.md",
     "png/Pasted image 20230829110433.png",
     "png/Pasted image 20230829110414.png",
     "png/Pasted image 20230829110353.png",
@@ -202,7 +216,6 @@
     "操作系统/mit6.s081/内存管理",
     "README.md",
     "操作系统/mit6.s081",
-    "操作系统/Linux",
     "2023-08-23.md",
     "未命名.canvas"
   ]
