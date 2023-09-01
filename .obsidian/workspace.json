@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "108469939199e0a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d2a0c49e43efab8c",
+  "active": "108469939199e0a6",
   "lastOpenFiles": [
     "操作系统/mit6.s081/文件系统/文件描述符.md",
     "操作系统/mit6.s081/文件系统/inode&目录&路径.md",
