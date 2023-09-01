@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49968e755482271b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/mit6.s081/文件系统/文件描述符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md",
+                "file": "操作系统/mit6.s081/文件系统/文件描述符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md",
+                "file": "操作系统/mit6.s081/文件系统/文件描述符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/mit6.s081/文件系统/文件系统日志.md"
+                "file": "操作系统/mit6.s081/文件系统/文件描述符.md"
               }
             }
           }
@@ -171,11 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81115b2a8ac51181",
+  "active": "49968e755482271b",
   "lastOpenFiles": [
-    "png/Pasted image 20230831223513.png",
-    "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+    "操作系统/mit6.s081/文件系统/inode&目录&路径.md",
+    "操作系统/mit6.s081/文件系统/文件描述符.md",
+    "png/Pasted image 20230901111320.png",
     "操作系统/mit6.s081/文件系统/文件系统日志.md",
+    "操作系统/mit6.s081/文件系统/文件系统缓存.md",
+    "png/Pasted image 20230831223513.png",
     "png/Pasted image 20230831220528.png",
     "png/Pasted image 20230831220448.png",
     "操作系统/mit6.s081/文件系统/磁盘管理.md",
@@ -195,8 +210,6 @@
     "png/Pasted image 20230829110414.png",
     "png/Pasted image 20230829110353.png",
     "png/Pasted image 20230829110329.png",
-    "png/Pasted image 20230828172014.png",
-    "png/Pasted image 20230828171906.png",
     "分布式/mit6.824",
     "分布式",
     "123.md",
