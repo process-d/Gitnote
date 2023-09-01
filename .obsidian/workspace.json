@@ -23,9 +23,11 @@
             "id": "108469939199e0a6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "操作系统/mit6.s081/文件系统/文件的系统调用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
