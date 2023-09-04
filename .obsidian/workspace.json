@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具手册/GDB.md",
+                "file": "项目/mit6.s081/lab8 Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具手册/GDB.md",
+                "file": "项目/mit6.s081/lab8 Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具手册/GDB.md",
+                "file": "项目/mit6.s081/lab8 Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具手册/GDB.md"
+                "file": "项目/mit6.s081/lab8 Lock.md"
               }
             }
           }
@@ -160,8 +160,26 @@
   },
   "active": "69ae1a17fb43b058",
   "lastOpenFiles": [
-    "工具手册/Git.md",
+    "项目/mit6.s081/lab7 Multithreading.md",
+    "项目/mit6.s081/lab8 Lock.md",
+    "项目/mit6.s081/lab6 copy on write.md",
+    "项目/mit6.s081/lab5 xv6 lazy page allocation.md",
+    "项目/mit6.s081/lab4 traps.md",
+    "png/Pasted image 20230904163658.png",
+    "项目/mit6.s081/lab3 page tables.md",
+    "项目/mit6.s081/lab2 system call.md",
+    "png/Pasted image 20230904162153.png",
+    "png/Pasted image 20230904162145.png",
+    "png/Pasted image 20230904162140.png",
+    "png/Pasted image 20230904162126.png",
+    "png/Pasted image 20230904162117.png",
+    "png/Pasted image 20230904162041.png",
+    "png/Pasted image 20230904162014.png",
+    "png/Pasted image 20230904161949.png",
+    "png/Pasted image 20230904161943.png",
+    "项目/mit6.s081/lab1 util.md",
     "工具手册/GDB.md",
+    "工具手册/Git.md",
     "数据库/cmu15-445",
     "数据库",
     "项目/cs144",
@@ -179,33 +197,15 @@
     "操作系统/mit6.s081/进程管理/进程相关代码.md",
     "操作系统/mit6.s081/进程管理/进程代码.md",
     "操作系统/mit6.s081/进程管理/进程管理.md",
-    "png/Pasted image 20230904142410.png",
-    "png/Pasted image 20230904141602.png",
-    "png/Pasted image 20230904141025.png",
-    "png/Pasted image 20230904140704.png",
     "操作系统/mit6.s081/中断理论/异常处理.md",
     "操作系统/mit6.s081/中断理论/进程管理.md",
     "操作系统/mit6.s081/中断理论/系统调用流程.md",
     "操作系统/mit6.s081/中断理论/trap机制.md",
     "操作系统/mit6.s081/中断理论/中断理论.md",
-    "png/Pasted image 20230904103102.png",
     "操作系统/mit6.s081/文件系统/shell交互程序.md",
     "操作系统/mit6.s081/文件系统/文件的系统调用.md",
     "操作系统/mit6.s081/文件系统/文件描述符.md",
     "操作系统/mit6.s081/文件系统/inode&目录&路径.md",
-    "操作系统/mit6.s081/文件系统/文件系统缓存.md",
-    "操作系统/mit6.s081/文件系统/文件系统日志.md",
-    "操作系统/mit6.s081/文件系统/磁盘管理.md",
-    "png/Pasted image 20230901111320.png",
-    "png/Pasted image 20230831223513.png",
-    "png/Pasted image 20230831220528.png",
-    "png/Pasted image 20230831220448.png",
-    "操作系统/mit6.s081/内存管理/虚拟内存管理的函数.md",
-    "java/基本概念.md",
-    "操作系统/mit6.s081/内存管理/Xv6内存管理.md",
-    "分布式/mit6.824/基本概念.md",
-    "png/Pasted image 20230830172538.png",
-    "操作系统/mit6.s081/内存管理/未命名.md",
     "未命名.canvas"
   ]
 }
