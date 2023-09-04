@@ -160,8 +160,9 @@
   },
   "active": "69ae1a17fb43b058",
   "lastOpenFiles": [
-    "项目/mit6.s081/lab7 Multithreading.md",
+    "项目/mit6.s081/lab9 file system.md",
     "项目/mit6.s081/lab8 Lock.md",
+    "项目/mit6.s081/lab7 Multithreading.md",
     "项目/mit6.s081/lab6 copy on write.md",
     "项目/mit6.s081/lab5 xv6 lazy page allocation.md",
     "项目/mit6.s081/lab4 traps.md",
@@ -205,7 +206,6 @@
     "操作系统/mit6.s081/文件系统/shell交互程序.md",
     "操作系统/mit6.s081/文件系统/文件的系统调用.md",
     "操作系统/mit6.s081/文件系统/文件描述符.md",
-    "操作系统/mit6.s081/文件系统/inode&目录&路径.md",
     "未命名.canvas"
   ]
 }
